@@ -1,0 +1,146 @@
+
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+    color: #fff;
+    text-align: center;
+}
+
+nav {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 20px;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+body{
+    background-color: azure;
+    text-align: center;
+    zoom: 60%;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+ }
+
+  
+#Title{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    position: relative;
+    top: -45px;
+    color: black;
+}
+#Subtitle{
+    color: #000;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;    
+    position: relative;
+    top: -65px;
+}
+ #img1{
+    width: 350px;
+    height: 450px;
+ }
+ #img2{
+    width: 350px;
+    height: 450px;
+ }
+ #img3{
+    width: 350px;
+    height: 450px;
+ }
+
+.contenedor {
+    width: 80%;
+    margin: auto;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+.header {
+    background-color: rgb(214, 214, 172);
+    border-radius: 30px;
+    position: relative;
+    width: 500px;
+    height: 40px;
+    left: 575px;
+    padding: 20px;
+    text-align: center;
+}
+.header h1 {
+    color: #ffffff;
+    font-size: 36px;
+}
+.header p {
+    color: #666666;
+    font-size: 18px;
+}
+.books {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.book {
+    width: 30%;
+    margin-bottom: 20px;
+}
+.book img {
+    width: 100%;
+    height: auto;
+}
+.book h3 {
+    color: #333333;
+    font-size: 24px;
+    margin: 10px 0;
+    text-align: center;
+    font-size: 30px;
+}
+.book p {
+    color: #000000;
+    background-color: rgb(254, 255, 255);
+    border-radius: 10px;
+    font-size: 27px;
+    text-align: justify;
+    margin: 10px 0;
+}
+.book a {
+    display: block;
+    background-color: #753737;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+#c2{
+    position: relative;
+    top: 40px;
+    left: 10px;
+}
+#c3{
+    position: relative;
+    top: 70px;
+
+    left: 10px;
+    
+}
+.footer {
+    background-color: #333333;
+    padding: 20px;
+    text-align: center;
+}
+.footer p {
+    color: #ffffff;
+    font-size: 16px;
+}
